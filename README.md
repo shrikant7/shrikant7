@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shrikant Sharma 😷
-📫 How to reach me: shrikantlnmiit@gmail.com
-<a href="linkedin.com/in/shrikant007/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+📫 Mailto: shrikantlnmiit@gmail.com
+<a href="https://www.linkedin.com/in/shrikant007/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 
